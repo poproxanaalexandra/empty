@@ -106,8 +106,6 @@ justify-content: space-between;
 
     max-height: 418px !important;
 
-    max-height: 430px !important;
-
     margin: 20px auto;
     color: black;
    
@@ -366,20 +364,6 @@ justify-content: space-between;
     margin:auto;
     width: 200px;
     height: 200px;
-}
-.carouselProduse{
-    max-width: 500px;
-    max-height: 700px;
-    margin: 20px auto;
-    color: black;
-   
-}
-.carouselProduse2{
-    max-width: 350px;
-    max-height: 400px !important;
-    margin: 20px auto;
-    color: black;
-   
 }
 
 #articole{
